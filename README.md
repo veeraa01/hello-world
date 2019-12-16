@@ -1,2 +1,2 @@
-# hello-world
-just an another repository
+# I am Karan Singh Sengar, MCA final year student,i am here to learn coding...
+ I want to learn Python and Angular..if talking about other tools and technologies i have interest in Bigdata And Hadoop
